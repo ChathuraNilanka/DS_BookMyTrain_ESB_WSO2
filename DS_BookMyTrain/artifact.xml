@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="Card_Payment_Gateway" groupId="com.example.DS_BookMyTrain.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/Card_Payment_Gateway.xml</file>
+    </artifact>
+    <artifact name="Dialog_Payment_Gateway" groupId="com.example.DS_BookMyTrain.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/Dialog_Payment_Gateway.xml</file>
+    </artifact>
+    <artifact name="Get_Trains" groupId="com.example.DS_BookMyTrain.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/Get_Trains.xml</file>
+    </artifact>
+    <artifact name="User_Login" groupId="com.example.DS_BookMyTrain.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/User_Login.xml</file>
+    </artifact>
+    <artifact name="User_Signup" groupId="com.example.DS_BookMyTrain.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/User_Signup.xml</file>
+    </artifact>
+    <artifact name="BookMyTrain" groupId="com.example.DS_BookMyTrain.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/BookMyTrain.xml</file>
+    </artifact>
+</artifacts>
